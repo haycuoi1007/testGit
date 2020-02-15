@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-1017
-=======
-1
->>>>>>> parent of 555e4f9... thay doi 1016
-=======
->>>>>>> parent of 4b63f92... thay doi 22:13
